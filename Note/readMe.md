@@ -30,7 +30,7 @@ Co-researcher at National Electronics and Computer Technology Center, adept in d
 
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>&nbsp;
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg" width="36" height="36" alt="PyTorch" /></a>
 
 ### Artificial intelligence 🧠
 
@@ -38,6 +38,8 @@ Co-researcher at National Electronics and Computer Technology Center, adept in d
 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>&nbsp;
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+
+
 
 </p>
 
